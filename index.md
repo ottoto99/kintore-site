@@ -18,8 +18,7 @@ This site provides:
 - Support information
 - Terms of Use
 
-Developer: ottoto
-Contact: clientcenter99@gmail.com
+Developer: ottoto<br>Contact: clientcenter99@gmail.com
 
 ---
 
@@ -33,5 +32,4 @@ kintore は筋力トレーニング向けのワークアウトタイマーアプ
 - サポート情報
 - 利用規約
 
-運営者: ottoto
-連絡先: clientcenter99@gmail.com
+運営者: ottoto<br>連絡先: clientcenter99@gmail.com
