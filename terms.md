@@ -10,7 +10,7 @@ These Terms of Use govern your use of kintore.
 
 ### 1. Service
 
-kintore is a workout timer app provided by kintore.
+kintore is a workout timer app provided by ottoto.
 
 ### 2. Subscriptions
 
@@ -55,7 +55,7 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 ### 1. サービス
 
-kintore は、kintore が提供するワークアウトタイマーアプリです。
+kintore は、ottoto が提供するワークアウトタイマーアプリです。
 
 ### 2. サブスクリプション
 
