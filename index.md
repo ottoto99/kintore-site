@@ -18,8 +18,8 @@ This site provides:
 - Support information
 - Terms of Use
 
-Developer: `[Developer Name]`  
-Contact: `[support@example.com]`
+Developer: ottoto
+Contact: clientcenter99@gmail.com
 
 ---
 
@@ -33,5 +33,5 @@ kintore は筋力トレーニング向けのワークアウトタイマーアプ
 - サポート情報
 - 利用規約
 
-運営者: `[運営者名]`  
-連絡先: `[support@example.com]`
+運営者: ottoto
+連絡先: clientcenter99@gmail.com
