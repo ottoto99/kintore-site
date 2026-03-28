@@ -1,6 +1,6 @@
 # Support / サポート
 
-Last updated / 最終更新日: `[YYYY-MM-DD]`
+Last updated / 最終更新日: `2026-03-28`
 
 ---
 
@@ -10,8 +10,8 @@ Thank you for using kintore.
 
 ### Contact
 
-If you need support, please contact:  
-`[support@example.com]`
+If you need support, please contact:
+clientcenter99@gmail.com
 
 ### Supported Topics
 
@@ -42,8 +42,8 @@ kintore をご利用いただきありがとうございます。
 
 ### お問い合わせ先
 
-サポートが必要な場合は、以下までご連絡ください。  
-`[support@example.com]`
+サポートが必要な場合は、以下までご連絡ください。
+clientcenter99@gmail.com
 
 ### 対応内容
 
