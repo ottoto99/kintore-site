@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>Compatible with</strong> HIIT, Tabata, Circuit Training, Bodyweight Training, and any repetition-based workout.</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">Privacy Policy</a> · <a href="./support.md">Support</a> · <a href="./terms.md">Terms of Use</a></p>
+<p><a href="./privacy">Privacy Policy</a> · <a href="./support">Support</a> · <a href="./terms">Terms of Use</a></p>
 <p>Developer: ottoto · Contact: clientcenter99@gmail.com</p>
 </div>
 
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>対応トレーニング</strong> — HIIT、タバタ式、サーキット、自重トレーニングなど、反復トレーニング全般に最適です。</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">プライバシーポリシー</a> · <a href="./support.md">サポート</a> · <a href="./terms.md">利用規約</a></p>
+<p><a href="./privacy">プライバシーポリシー</a> · <a href="./support">サポート</a> · <a href="./terms">利用規約</a></p>
 <p>運営者: ottoto · 連絡先: clientcenter99@gmail.com</p>
 </div>
 
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>适用训练</strong> — 适用于HIIT、Tabata、循环训练、自重训练等各类重复性训练。</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">隐私政策</a> · <a href="./support.md">支持</a> · <a href="./terms.md">使用条款</a></p>
+<p><a href="./privacy">隐私政策</a> · <a href="./support">支持</a> · <a href="./terms">使用条款</a></p>
 <p>开发者: ottoto · 联系方式: clientcenter99@gmail.com</p>
 </div>
 
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>उपयुक्त वर्कआउट</strong> — HIIT, Tabata, सर्किट ट्रेनिंग, बॉडीवेट ट्रेनिंग और किसी भी दोहराव-आधारित वर्कआउट के लिए उपयुक्त।</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">गोपनीयता नीति</a> · <a href="./support.md">सहायता</a> · <a href="./terms.md">उपयोग की शर्तें</a></p>
+<p><a href="./privacy">गोपनीयता नीति</a> · <a href="./support">सहायता</a> · <a href="./terms">उपयोग की शर्तें</a></p>
 <p>डेवलपर: ottoto · संपर्क: clientcenter99@gmail.com</p>
 </div>
 
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>Geeignete Trainingsarten</strong> — Optimiert für HIIT, Tabata, Zirkeltraining, Körpergewichtstraining und alle wiederholungsbasierten Workouts.</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">Datenschutzerklärung</a> · <a href="./support.md">Support</a> · <a href="./terms.md">Nutzungsbedingungen</a></p>
+<p><a href="./privacy">Datenschutzerklärung</a> · <a href="./support">Support</a> · <a href="./terms">Nutzungsbedingungen</a></p>
 <p>Entwickler: ottoto · Kontakt: clientcenter99@gmail.com</p>
 </div>
 
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>Latihan yang Didukung</strong> — Dioptimalkan untuk HIIT, Tabata, latihan sirkuit, latihan beban tubuh, dan latihan berbasis repetisi lainnya.</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">Kebijakan Privasi</a> · <a href="./support.md">Dukungan</a> · <a href="./terms.md">Ketentuan Penggunaan</a></p>
+<p><a href="./privacy">Kebijakan Privasi</a> · <a href="./support">Dukungan</a> · <a href="./terms">Ketentuan Penggunaan</a></p>
 <p>Pengembang: ottoto · Kontak: clientcenter99@gmail.com</p>
 </div>
 
@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>Entrenamientos Compatibles</strong> — Optimizado para HIIT, Tabata, entrenamiento en circuito, entrenamiento con peso corporal y cualquier entrenamiento basado en repeticiones.</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">Política de Privacidad</a> · <a href="./support.md">Soporte</a> · <a href="./terms.md">Términos de Uso</a></p>
+<p><a href="./privacy">Política de Privacidad</a> · <a href="./support">Soporte</a> · <a href="./terms">Términos de Uso</a></p>
 <p>Desarrollador: ottoto · Contacto: clientcenter99@gmail.com</p>
 </div>
 
@@ -160,6 +160,6 @@ document.addEventListener('DOMContentLoaded', function () {
 <li><strong>Treinos Compatíveis</strong> — Otimizado para HIIT, Tabata, treinamento em circuito, treinamento com peso corporal e qualquer treino baseado em repetições.</li>
 </ul>
 <hr>
-<p><a href="./privacy.md">Política de Privacidade</a> · <a href="./support.md">Suporte</a> · <a href="./terms.md">Termos de Uso</a></p>
+<p><a href="./privacy">Política de Privacidade</a> · <a href="./support">Suporte</a> · <a href="./terms">Termos de Uso</a></p>
 <p>Desenvolvedor: ottoto · Contato: clientcenter99@gmail.com</p>
 </div>
