@@ -1,6 +1,6 @@
 # Terms of Use / 利用規約
 
-Last updated / 最終更新日: `2026-03-28`
+Last updated / 最終更新日: `2026-04-03`
 
 [English](#english) · [日本語](#japanese) · [中文（简体）](#chinese-simplified) · [हिन्दी](#hindi) · [Deutsch](#deutsch) · [Bahasa Indonesia](#bahasa-indonesia) · [Español](#espanol) · [Português](#portugues)
 
