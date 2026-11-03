@@ -1,6 +1,6 @@
 # Support / サポート
 
-Last updated / 最終更新日: `2026-04-03`
+Last updated / 最終更新日: `2026-11-03`
 
 [English](#english) · [日本語](#japanese) · [中文（简体）](#chinese-simplified) · [हिन्दी](#hindi) · [Deutsch](#deutsch) · [Bahasa Indonesia](#bahasa-indonesia) · [Español](#espanol) · [Português](#portugues)
 
@@ -9,6 +9,12 @@ Last updated / 最終更新日: `2026-04-03`
 ## English {#english}
 
 Thank you for using kintore.
+
+### Timer and Screen Lock
+
+The screen stays on while the timer is running, so it will not lock automatically.
+
+If you lock the screen with the side button or switch to another app, sounds and vibration stop. Elapsed time is still tracked and the display catches up when you return to the app. However, if iOS closes the app in the meantime, the workout in progress is lost.
 
 ### Contact
 
@@ -41,6 +47,12 @@ We will respond as reasonably possible, but we do not guarantee a response time.
 
 kintore をご利用いただきありがとうございます。
 
+### タイマーと画面ロックについて
+
+タイマーの実行中は、画面が自動で消えないようにしています。
+
+サイドボタンで画面をロックしたり、他のアプリに切り替えたりすると、音と振動は止まります。経過時間は記録され、アプリに戻ると表示に反映されます。ただし、その間に iOS がアプリを終了した場合、進行中のトレーニングは失われます。
+
 ### お問い合わせ先
 
 サポートが必要な場合は、以下までご連絡ください:<br>clientcenter99@gmail.com
@@ -70,6 +82,12 @@ kintore をご利用いただきありがとうございます。
 
 感谢您使用kintore。
 
+### 计时器与屏幕锁定
+
+计时器运行期间，屏幕会保持常亮，不会自动锁定。
+
+如果使用侧边按钮锁定屏幕或切换到其他应用，声音和振动将停止。已用时间仍会被记录，返回应用后显示会更新。但如果在此期间 iOS 关闭了应用，正在进行的训练将会丢失。
+
 ### 联系方式
 
 如需支持，请联系：<br>clientcenter99@gmail.com
@@ -98,6 +116,12 @@ kintore をご利用いただきありがとうございます。
 ## हिन्दी {#hindi}
 
 kintore का उपयोग करने के लिए धन्यवाद।
+
+### टाइमर और स्क्रीन लॉक
+
+टाइमर चलने के दौरान स्क्रीन चालू रहती है, इसलिए वह अपने आप लॉक नहीं होती।
+
+यदि आप साइड बटन से स्क्रीन लॉक करते हैं या किसी अन्य ऐप पर जाते हैं, तो ध्वनि और कंपन बंद हो जाते हैं। बीता हुआ समय दर्ज होता रहता है और ऐप पर लौटने पर दिखाई देता है। हालांकि, यदि इस बीच iOS ऐप को बंद कर देता है, तो चल रहा वर्कआउट खो जाएगा।
 
 ### संपर्क
 
@@ -130,6 +154,12 @@ kintore का उपयोग करने के लिए धन्यवा�
 
 Vielen Dank, dass Sie kintore verwenden.
 
+### Timer und Bildschirmsperre
+
+Während der Timer läuft, bleibt der Bildschirm eingeschaltet und wird nicht automatisch gesperrt.
+
+Wenn Sie den Bildschirm mit der Seitentaste sperren oder zu einer anderen App wechseln, stoppen Töne und Vibration. Die verstrichene Zeit wird weiter erfasst und beim Zurückkehren zur App angezeigt. Beendet iOS die App in der Zwischenzeit, geht das laufende Training jedoch verloren.
+
 ### Kontakt
 
 Wenn Sie Unterstützung benötigen, kontaktieren Sie uns bitte unter:<br>clientcenter99@gmail.com
@@ -160,6 +190,12 @@ Wir werden so schnell wie möglich antworten, können aber keine Antwortzeit gar
 ## Bahasa Indonesia {#bahasa-indonesia}
 
 Terima kasih telah menggunakan kintore.
+
+### Timer dan Kunci Layar
+
+Layar tetap menyala selama timer berjalan, sehingga tidak terkunci secara otomatis.
+
+Jika Anda mengunci layar dengan tombol samping atau beralih ke aplikasi lain, suara dan getaran akan berhenti. Waktu yang berlalu tetap dicatat dan ditampilkan saat Anda kembali ke aplikasi. Namun, jika iOS menutup aplikasi selama itu, latihan yang sedang berjalan akan hilang.
 
 ### Kontak
 
@@ -192,6 +228,12 @@ Kami akan merespons sebaik mungkin, tetapi kami tidak dapat menjamin waktu respo
 
 Gracias por usar kintore.
 
+### Temporizador y bloqueo de pantalla
+
+La pantalla permanece encendida mientras el temporizador está en marcha, por lo que no se bloquea automáticamente.
+
+Si bloqueas la pantalla con el botón lateral o cambias a otra app, el sonido y la vibración se detienen. El tiempo transcurrido se sigue registrando y se actualiza al volver a la app. Sin embargo, si iOS cierra la app mientras tanto, el entrenamiento en curso se pierde.
+
 ### Contacto
 
 Si necesita soporte, póngase en contacto con:<br>clientcenter99@gmail.com
@@ -222,6 +264,12 @@ Responderemos en la medida de lo posible, pero no podemos garantizar un tiempo d
 ## Português {#portugues}
 
 Obrigado por usar o kintore.
+
+### Temporizador e bloqueio de tela
+
+A tela permanece ligada enquanto o temporizador está em execução, portanto não é bloqueada automaticamente.
+
+Se você bloquear a tela com o botão lateral ou mudar para outro app, o som e a vibração param. O tempo decorrido continua sendo registrado e é atualizado ao voltar ao app. No entanto, se o iOS fechar o app nesse período, o treino em andamento será perdido.
 
 ### Contato
 

@@ -1,6 +1,6 @@
 # Privacy Policy / プライバシーポリシー
 
-Last updated / 最終更新日: `2026-04-03`
+Last updated / 最終更新日: `2026-11-03`
 
 [English](#english) · [日本語](#japanese) · [中文（简体）](#chinese-simplified) · [हिन्दी](#hindi) · [Deutsch](#deutsch) · [Bahasa Indonesia](#bahasa-indonesia) · [Español](#espanol) · [Português](#portugues)
 
@@ -22,6 +22,10 @@ When you download and use the App, the following information may be collected:
 - The pages of the App that you visit, the time and date of your visit, the time spent on those pages
 - The time spent on the App
 - The operating system you use on your mobile device
+- Device identifiers used by advertising, notification, and analytics services
+- Approximate location estimated from your IP address
+- The ads shown to you and your interactions with them
+- Crash logs and performance data
 - Workout settings and app preferences stored on your device
 - Subscription status required to provide premium features
 
@@ -41,17 +45,22 @@ The App offers auto-renewable subscriptions through Apple's in-app purchase syst
 
 The App may display advertisements using Google AdMob. Google and its partners may collect data in accordance with their own privacy policies.
 
+If you are in the European Economic Area, the United Kingdom, or Switzerland, the App asks for your consent for advertising through Google's consent message before requesting ads. You can change your choice at any time under Settings > Ad Privacy Settings.
+
 More information: https://policies.google.com/privacy
 
 ### 6. Third Party Services
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the developer in improving the App. The developer may share your information with third parties as described in this policy.
+To display ads, deliver notifications, and analyze and improve the App, information such as device identifiers, approximate location, ad and app interaction data, and crash and performance data may be sent to the third-party services below. Those services may link device identifiers, approximate location, and interaction data to you. The developer may share your information with third parties as described in this policy.
 
 The App uses the following third-party services, each with their own Privacy Policy:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 The developer may disclose collected information:
 
@@ -113,6 +122,10 @@ kintore（以下「本アプリ」）は、ユーザーのプライバシーを�
 - 閲覧したページ、アクセス日時、各ページの滞在時間
 - アプリの利用時間
 - モバイルデバイスのオペレーティングシステム
+- 広告、通知、分析の各サービスが使用するデバイス識別子
+- IPアドレスから推定されるおおよその位置情報
+- 表示された広告とその操作に関する情報
+- クラッシュログおよびパフォーマンスデータ
 - ワークアウト設定やアプリ設定など、端末内に保存される情報
 - プレミアム機能提供のために必要なサブスクリプション状態
 
@@ -132,17 +145,22 @@ kintore（以下「本アプリ」）は、ユーザーのプライバシーを�
 
 本アプリは、Google AdMob を利用して広告を表示する場合があります。Google およびそのパートナーは、各社のプライバシーポリシーに従ってデータを取り扱うことがあります。
 
+欧州経済領域（EEA）、英国、スイスにお住まいの方には、広告をリクエストする前に Google の同意メッセージで広告に関する同意をお願いします。選択内容は、設定 > 広告のプライバシー設定 からいつでも変更できます。
+
 詳細: https://policies.google.com/privacy
 
 ### 6. 第三者提供
 
-集約・匿名化されたデータのみが、本アプリの改善を目的として外部サービスに定期的に送信される場合があります。運営者は、本ポリシーに記載の方法で第三者と情報を共有することがあります。
+広告の表示、通知の配信、本アプリの分析と改善のため、デバイス識別子、おおよその位置情報、広告やアプリの操作に関する情報、クラッシュおよびパフォーマンスのデータなどが、以下の第三者サービスに送信される場合があります。これらのサービスは、デバイス識別子、おおよその位置情報、操作に関する情報をユーザーに関連付ける場合があります。運営者は、本ポリシーに記載の方法で第三者と情報を共有することがあります。
 
 本アプリが使用する第三者サービスおよび各社のプライバシーポリシーは以下のとおりです。
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 運営者は、以下の場合に収集した情報を開示することがあります。
 
@@ -204,6 +222,10 @@ kintore（以下简称"本应用"）尊重用户隐私。本隐私政策说明�
 - 访问的页面、访问日期和时间、在各页面的停留时间
 - 应用使用时长
 - 移动设备的操作系统
+- 广告、通知和分析服务使用的设备标识符
+- 根据IP地址估算的大致位置
+- 向您展示的广告及您与广告的互动情况
+- 崩溃日志和性能数据
 - 存储在设备上的训练设置和应用偏好设置
 - 提供高级功能所需的订阅状态
 
@@ -223,17 +245,22 @@ kintore（以下简称"本应用"）尊重用户隐私。本隐私政策说明�
 
 本应用可能使用Google AdMob展示广告。Google及其合作伙伴可能依照各自的隐私政策收集数据。
 
+如果您位于欧洲经济区、英国或瑞士，本应用会在请求广告前通过 Google 的同意消息征求您对广告的同意。您可以随时在“设置 > 广告隐私设置”中更改您的选择。
+
 更多信息：https://policies.google.com/privacy
 
 ### 6. 第三方服务
 
-仅汇总、匿名化的数据会定期传输至外部服务，用于帮助开发者改进应用。开发者可能依照本政策所述方式与第三方共享信息。
+为展示广告、发送通知以及分析和改进本应用，设备标识符、大致位置、广告和应用互动数据、崩溃和性能数据等信息可能会发送至下列第三方服务。这些服务可能会将设备标识符、大致位置和互动数据与您相关联。开发者可能依照本政策所述方式与第三方共享信息。
 
 本应用使用的第三方服务及其隐私政策如下：
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 开发者可能在以下情况下披露所收集的信息：
 
@@ -295,6 +322,10 @@ kintore ("ऐप") आपकी गोपनीयता का सम्मा�
 - ऐप के जिन पृष्ठों पर आप जाते हैं, विज़िट की तारीख और समय, उन पृष्ठों पर बिताया गया समय
 - ऐप पर बिताया गया समय
 - आपके मोबाइल डिवाइस का ऑपरेटिंग सिस्टम
+- विज्ञापन, सूचना और विश्लेषण सेवाओं द्वारा उपयोग किए जाने वाले डिवाइस पहचानकर्ता
+- आपके IP पते के आधार पर अनुमानित स्थान
+- आपको दिखाए गए विज्ञापन और उनके साथ आपकी सहभागिता
+- क्रैश लॉग और प्रदर्शन डेटा
 - आपके डिवाइस पर संग्रहीत वर्कआउट सेटिंग्स और ऐप प्राथमिकताएं
 - प्रीमियम सुविधाएं प्रदान करने के लिए आवश्यक सदस्यता स्थिति
 
@@ -314,17 +345,22 @@ kintore ("ऐप") आपकी गोपनीयता का सम्मा�
 
 ऐप Google AdMob का उपयोग करके विज्ञापन प्रदर्शित कर सकता है। Google और उसके भागीदार अपनी स्वयं की गोपनीयता नीतियों के अनुसार डेटा एकत्र कर सकते हैं।
 
+यदि आप यूरोपीय आर्थिक क्षेत्र, यूनाइटेड किंगडम या स्विट्ज़रलैंड में हैं, तो विज्ञापन का अनुरोध करने से पहले ऐप Google के सहमति संदेश के माध्यम से विज्ञापन के लिए आपकी सहमति मांगता है। आप अपनी पसंद को कभी भी सेटिंग्स > विज्ञापन गोपनीयता सेटिंग में बदल सकते हैं।
+
 अधिक जानकारी: https://policies.google.com/privacy
 
 ### 6. तृतीय-पक्ष सेवाएं
 
-केवल एकत्रित और अनाम डेटा ही समय-समय पर बाहरी सेवाओं को भेजा जाता है ताकि डेवलपर ऐप को बेहतर बना सके। डेवलपर इस नीति में वर्णित अनुसार आपकी जानकारी तृतीय पक्षों के साथ साझा कर सकता है।
+विज्ञापन दिखाने, सूचनाएं भेजने और ऐप का विश्लेषण व सुधार करने के लिए, डिवाइस पहचानकर्ता, अनुमानित स्थान, विज्ञापन और ऐप के साथ सहभागिता का डेटा, तथा क्रैश और प्रदर्शन डेटा जैसी जानकारी नीचे दी गई तृतीय-पक्ष सेवाओं को भेजी जा सकती है। ये सेवाएं डिवाइस पहचानकर्ता, अनुमानित स्थान और सहभागिता के डेटा को आपसे जोड़ सकती हैं। डेवलपर इस नीति में वर्णित अनुसार आपकी जानकारी तृतीय पक्षों के साथ साझा कर सकता है।
 
 ऐप निम्नलिखित तृतीय-पक्ष सेवाओं का उपयोग करता है, जिनकी अपनी गोपनीयता नीतियां हैं:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 डेवलपर निम्नलिखित परिस्थितियों में एकत्र की गई जानकारी प्रकट कर सकता है:
 
@@ -386,6 +422,10 @@ Beim Herunterladen und Verwenden der App können folgende Informationen erhoben 
 - Die besuchten Seiten der App, Datum und Uhrzeit des Besuchs sowie die dort verbrachte Zeit
 - Die in der App verbrachte Zeit
 - Das Betriebssystem Ihres Mobilgeräts
+- Gerätekennungen, die von Werbe-, Benachrichtigungs- und Analysediensten verwendet werden
+- Ungefährer Standort, der anhand Ihrer IP-Adresse geschätzt wird
+- Die Ihnen angezeigte Werbung und Ihre Interaktionen damit
+- Absturzprotokolle und Leistungsdaten
 - Trainingseinstellungen und App-Einstellungen, die auf Ihrem Gerät gespeichert sind
 - Abonnementstatus zur Bereitstellung von Premium-Funktionen
 
@@ -405,17 +445,22 @@ Die App bietet automatisch verlängerbare Abonnements über Apples In-App-Käufe
 
 Die App kann Werbung über Google AdMob anzeigen. Google und seine Partner können gemäß ihren eigenen Datenschutzrichtlinien Daten erheben.
 
+Wenn Sie sich im Europäischen Wirtschaftsraum, im Vereinigten Königreich oder in der Schweiz befinden, bittet die App vor der Anforderung von Werbung über die Einwilligungsmitteilung von Google um Ihre Einwilligung. Sie können Ihre Auswahl jederzeit unter Einstellungen > Werbedatenschutz ändern.
+
 Weitere Informationen: https://policies.google.com/privacy
 
 ### 6. Drittanbieterdienste
 
-Nur aggregierte, anonymisierte Daten werden periodisch an externe Dienste übermittelt, um dem Entwickler bei der Verbesserung der App zu helfen. Der Entwickler kann Ihre Informationen gemäß dieser Richtlinie mit Dritten teilen.
+Um Werbung anzuzeigen, Benachrichtigungen zuzustellen und die App zu analysieren und zu verbessern, können Informationen wie Gerätekennungen, der ungefähre Standort, Interaktionsdaten zu Werbung und App sowie Absturz- und Leistungsdaten an die unten aufgeführten Drittanbieterdienste übermittelt werden. Diese Dienste können Gerätekennungen, den ungefähren Standort und Interaktionsdaten mit Ihnen verknüpfen. Der Entwickler kann Ihre Informationen gemäß dieser Richtlinie mit Dritten teilen.
 
 Die App verwendet folgende Drittanbieterdienste, jeweils mit eigener Datenschutzrichtlinie:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 Der Entwickler kann erhobene Informationen offenlegen:
 
@@ -477,6 +522,10 @@ Saat Anda mengunduh dan menggunakan Aplikasi, informasi berikut mungkin dikumpul
 - Halaman Aplikasi yang Anda kunjungi, tanggal dan waktu kunjungan, waktu yang dihabiskan di halaman tersebut
 - Waktu yang dihabiskan di Aplikasi
 - Sistem operasi yang Anda gunakan di perangkat seluler Anda
+- Pengenal perangkat yang digunakan oleh layanan iklan, notifikasi, dan analitik
+- Perkiraan lokasi berdasarkan alamat IP Anda
+- Iklan yang ditampilkan kepada Anda dan interaksi Anda dengan iklan tersebut
+- Log kerusakan dan data performa
 - Pengaturan latihan dan preferensi aplikasi yang tersimpan di perangkat Anda
 - Status langganan yang diperlukan untuk menyediakan fitur premium
 
@@ -496,17 +545,22 @@ Aplikasi menawarkan langganan yang diperbarui secara otomatis melalui sistem pem
 
 Aplikasi dapat menampilkan iklan menggunakan Google AdMob. Google dan mitranya dapat mengumpulkan data sesuai kebijakan privasi mereka masing-masing.
 
+Jika Anda berada di Wilayah Ekonomi Eropa, Inggris, atau Swiss, Aplikasi meminta persetujuan Anda untuk iklan melalui pesan persetujuan Google sebelum meminta iklan. Anda dapat mengubah pilihan kapan saja di Pengaturan > Pengaturan Privasi Iklan.
+
 Informasi selengkapnya: https://policies.google.com/privacy
 
 ### 6. Layanan Pihak Ketiga
 
-Hanya data yang dikumpulkan dan dianonimkan yang secara berkala dikirimkan ke layanan eksternal untuk membantu pengembang meningkatkan Aplikasi. Pengembang dapat berbagi informasi Anda dengan pihak ketiga sebagaimana dijelaskan dalam kebijakan ini.
+Untuk menampilkan iklan, mengirim notifikasi, serta menganalisis dan meningkatkan Aplikasi, informasi seperti pengenal perangkat, perkiraan lokasi, data interaksi iklan dan aplikasi, serta data kerusakan dan performa dapat dikirim ke layanan pihak ketiga di bawah ini. Layanan tersebut dapat mengaitkan pengenal perangkat, perkiraan lokasi, dan data interaksi dengan Anda. Pengembang dapat berbagi informasi Anda dengan pihak ketiga sebagaimana dijelaskan dalam kebijakan ini.
 
 Aplikasi menggunakan layanan pihak ketiga berikut, masing-masing dengan Kebijakan Privasi mereka sendiri:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 Pengembang dapat mengungkapkan informasi yang dikumpulkan:
 
@@ -568,6 +622,10 @@ Cuando descarga y utiliza la Aplicación, puede recopilarse la siguiente informa
 - Las páginas de la Aplicación que visita, la fecha y hora de su visita, el tiempo pasado en esas páginas
 - El tiempo pasado en la Aplicación
 - El sistema operativo que utiliza en su dispositivo móvil
+- Identificadores del dispositivo utilizados por servicios de publicidad, notificaciones y análisis
+- Ubicación aproximada estimada a partir de su dirección IP
+- Los anuncios que se le muestran y sus interacciones con ellos
+- Registros de fallos y datos de rendimiento
 - Configuraciones de entrenamiento y preferencias de la aplicación almacenadas en su dispositivo
 - Estado de suscripción requerido para proporcionar funciones premium
 
@@ -587,17 +645,22 @@ La Aplicación ofrece suscripciones de renovación automática a través del sis
 
 La Aplicación puede mostrar anuncios utilizando Google AdMob. Google y sus socios pueden recopilar datos de acuerdo con sus propias políticas de privacidad.
 
+Si se encuentra en el Espacio Económico Europeo, el Reino Unido o Suiza, la Aplicación le solicita su consentimiento para la publicidad mediante el mensaje de consentimiento de Google antes de solicitar anuncios. Puede cambiar su elección en cualquier momento en Ajustes > Privacidad de Anuncios.
+
 Más información: https://policies.google.com/privacy
 
 ### 6. Servicios de Terceros
 
-Solo datos agregados y anonimizados se transmiten periódicamente a servicios externos para ayudar al desarrollador a mejorar la Aplicación. El desarrollador puede compartir su información con terceros según se describe en esta política.
+Para mostrar anuncios, entregar notificaciones, y analizar y mejorar la Aplicación, información como los identificadores del dispositivo, la ubicación aproximada, los datos de interacción con anuncios y con la Aplicación, y los datos de fallos y rendimiento puede enviarse a los servicios de terceros indicados a continuación. Dichos servicios pueden vincular con usted los identificadores del dispositivo, la ubicación aproximada y los datos de interacción. El desarrollador puede compartir su información con terceros según se describe en esta política.
 
 La Aplicación utiliza los siguientes servicios de terceros, cada uno con su propia Política de Privacidad:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 El desarrollador puede divulgar la información recopilada:
 
@@ -659,6 +722,10 @@ Quando você baixa e usa o Aplicativo, as seguintes informações podem ser cole
 - As páginas do Aplicativo que você visita, a data e hora da sua visita, o tempo gasto nessas páginas
 - O tempo gasto no Aplicativo
 - O sistema operacional que você usa no seu dispositivo móvel
+- Identificadores do dispositivo usados por serviços de publicidade, notificações e análise
+- Localização aproximada estimada a partir do seu endereço IP
+- Os anúncios exibidos para você e suas interações com eles
+- Registros de falhas e dados de desempenho
 - Configurações de treino e preferências do aplicativo armazenadas no seu dispositivo
 - Status de assinatura necessário para fornecer recursos premium
 
@@ -678,17 +745,22 @@ O Aplicativo oferece assinaturas de renovação automática através do sistema 
 
 O Aplicativo pode exibir anúncios usando o Google AdMob. O Google e seus parceiros podem coletar dados de acordo com suas próprias políticas de privacidade.
 
+Se você estiver no Espaço Econômico Europeu, no Reino Unido ou na Suíça, o Aplicativo solicita seu consentimento para publicidade por meio da mensagem de consentimento do Google antes de solicitar anúncios. Você pode alterar sua escolha a qualquer momento em Configurações > Privacidade de Anúncios.
+
 Mais informações: https://policies.google.com/privacy
 
 ### 6. Serviços de Terceiros
 
-Apenas dados agregados e anonimizados são periodicamente transmitidos a serviços externos para ajudar o desenvolvedor a melhorar o Aplicativo. O desenvolvedor pode compartilhar suas informações com terceiros conforme descrito nesta política.
+Para exibir anúncios, entregar notificações e analisar e melhorar o Aplicativo, informações como identificadores do dispositivo, localização aproximada, dados de interação com anúncios e com o Aplicativo, e dados de falhas e desempenho podem ser enviadas aos serviços de terceiros abaixo. Esses serviços podem vincular a você os identificadores do dispositivo, a localização aproximada e os dados de interação. O desenvolvedor pode compartilhar suas informações com terceiros conforme descrito nesta política.
 
 O Aplicativo usa os seguintes serviços de terceiros, cada um com sua própria Política de Privacidade:
 
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy/)
+- [Firebase Performance Monitoring](https://firebase.google.com/support/privacy/)
+- [Firebase Remote Config](https://firebase.google.com/support/privacy/)
 
 O desenvolvedor pode divulgar as informações coletadas:
 
